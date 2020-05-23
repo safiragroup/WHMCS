@@ -1,2 +1,2 @@
 # WHMCS
-WHMCS Persian
+WHMCS Farsi (Persian) Language File
